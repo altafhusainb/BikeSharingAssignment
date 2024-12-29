@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# Bike Sharing Assignment
+> This is a programming assignment to build a multiple linear regression model for the prediction of demand for shared bikes.
 
 
 ## Table of Contents
